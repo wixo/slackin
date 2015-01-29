@@ -6,7 +6,7 @@
   "env": {
     "ORG": {
       "description": "Organization subdomain (//**this**.slack.com)"
-    }
+    },
     "TOKEN": {
       "description": "Slack API token (see https://api.slack.com/web)"
     }

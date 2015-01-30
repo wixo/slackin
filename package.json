@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "description": "",
   "scripts": {
-    "start": "./bin/slackin --port ${PORT:=} --org ${ORG:=''} --token${TOKEN:=''}"
+    "start": "./bin/slackin --port ${PORT:=} --org ${ORG:=''} --token ${TOKEN:=''}"
   },
   "dependencies": {
     "body-parser": "1.10.2",
